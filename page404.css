@@ -1,0 +1,178 @@
+*{
+		padding:0;
+		margin:0;
+}
+html{
+	height:100%;
+	width:100%;
+}
+body{
+	height:100%;
+	width:100%;
+	background-color:#fff;
+}
+	
+header{
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+	height:80px;
+	background:#fff;
+	box-shadow:#000 0 2px 2px;
+}
+a{
+	text-decoration: none;
+}
+#menuhamburger{
+	float: left;
+	width:50px;
+	height:50px;
+	padding:15 0 0 10;
+}
+#menu{
+	display: inline-block;
+	margin-top: 15px;
+	text-align: right;
+	width:450px;
+	height:50px;
+	font-family: 'Arial';
+	font-size: 14px;
+	letter-spacing: 2px;
+	font-weight: bold;
+    font-style: normal;
+	color:#000;
+	background-color:#fff; 
+}
+#menu li{
+	display: inline-block; 
+	padding-top: 15px;
+}
+
+#corps{
+	width:100%;
+	height:650px;
+	background:#ffdb00;
+	padding-top:150px;
+}
+#txtcentre{
+	width:900px;
+	height:450px;
+	*background:#333;
+	background:#ffdb00;
+	font-family: 'Arial';
+	margin-left:350px;
+	text-align: center;
+	*position:absolute;
+}
+#txtcentre h1{
+	font-family: 'Arial';
+	color:#fff;
+	font-size:60px;
+}
+
+#txtcentreB{
+	float: left;
+	width:380px;
+	height:50px;
+	*background:#666;
+	background:#ffdb00;
+	padding: 10 20 0 0;
+	font-family: 'Arial';
+	margin-left:350px;
+	text-align: right;
+	
+}
+#txtcentreC{
+	float: left;
+	width:450px;
+	height:45px;
+	*background:#666;
+	background:#ffdb00;
+	padding-top: 15px;
+	text-align: left;
+	
+}
+#txtcentreC p{
+	font-family: 'Arial';
+	color:#fff;
+	font-size:18px;
+}
+footer{
+	padding-top: 10px;
+	width:100%;
+	height:320px;
+	background:#262626;
+}
+footer h1{
+	font-family: 'Arial';
+	color:#face36;
+    font-weight: normal;
+    font-style: normal;
+}
+footer p{
+	font-family: 'Arial';
+	font-size: 14px;
+	color:#fff;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.txtgris{
+	color:#999;
+}
+
+#centrefooter{
+	margin-left:350px;
+	padding:12 0 0 30;
+	width:900px;
+	height:290px;
+	background:#262626;
+}
+#divfooterA{
+	float: left;
+	width:215px;
+	height:200px;
+	background:#262626;
+	}
+#divfooterB{
+	float: left;
+	width:215px;
+	height:200px;
+	background:#262626;
+	}
+#divfooterC{
+	float: left;
+	width:215px;
+	height:200px;
+	background:#262626;
+	}
+#divfooterD{
+	float: left;
+	width:220px;
+	height:200px;
+	background:#262626;
+	}
+#divfooterE{
+	float: left;
+	width:865px;
+	height:75px;
+	background:#262626;
+	}
+#divfooterEA{
+	float: left;
+	width:215px;
+	height:75px;
+	background:#262626;
+	}
+#divfooterEB{
+	float: left;
+	width:355px;
+	height:75px;
+	background:#262626;
+	}
+.divcopyright{
+	font-size: 10px;
+	color:#333;
+
+	}
